@@ -1,18 +1,10 @@
-<!-- Intro  -->
-
 # Hi! My name is Gandhi Velasquez
 
 ## Software Engineer (Full-Stack)
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+<h2 align="center"> 
+    I am a Software Engineer (Full-Stack)
+</h2>
 
 <p align="center">
  <a href="https://alsiam.com" target="blank">
