@@ -3,10 +3,10 @@
 ## I am a Software Engineer (Full-Stack)
 
 <p align="center">
- <a href="https://gandhi-velasquez.netlify.app/" onclick="window.open(this.href,'_blank');return false;">
+ <a href="https://gandhi-velasquez.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Gandhi-Velasquez" />
  </a>
- <a href="https://www.linkedin.com/in/gandhi-velasquez-a222a0211/" onclick="window.open(this.href,'_blank');return false;">
+ <a href="https://www.linkedin.com/in/gandhi-velasquez-a222a0211/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gandhi-Velasquez"/>
  </a>
 </p>
@@ -15,7 +15,7 @@
 
 - 🌍 I'm based in Mountain View, CA
 - ✉️ You can contact me at [velasquez.gandhi@gmail.com](mailto:velasquez.gandhi@gmail.com)
-- 🚀 My Projects @: [My Portfolio](https://gandhi-velasquez.netlify.app/){:target="\_blank"}
+- 🚀 My Projects @: [My Portfolio](https://gandhi-velasquez.netlify.app/)
 
 <p align="left">
   <a href="https://github.com/Gandhi-Velasquez?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
